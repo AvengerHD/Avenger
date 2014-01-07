@@ -1,0 +1,9 @@
+$(document).ready(function(){
+	$("#main").hover(function(){
+		$(this).removeClass("small");
+		$(this).addClass("big");
+	},function(){
+		$(this).removeClass("big");
+		$(this).addClass("small");
+	});
+});

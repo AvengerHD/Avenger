@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+.style{
+	background-color:blue;
+	color:red;
+	font-size:40px;
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
+}
+.big{
+	height:400px;
+}
+.small{
+	height:100px;
+}
